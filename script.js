@@ -18,7 +18,7 @@ const durTime = document.querySelector('#durTime');
 const songs = ['Your Lie In April OST - Again','Violet Evergarden Across the Violet Sky', 'One Punch Man OST -Seigi Shikkou','Naruto Shippuuden OST 19 Despair', 'Erased  01  Only I am missing','TERROR IN RESONANCE(OST) _ lolol + fugl (cover)','Nears Theme (A) - Death Note','Akatsuki Theme Full Song  Naruto Shippuuden OST','Attack On Titan  Vogel im Käfig ReMastered','Attack On Titan OST  Erens Epic Transformation  Armored Titan theme','Code Geass - Madder Sky','secret base _(10 years after ver.)AnoHana Ending song','Kioku  -I only reccomend the ost'];
 
 // Keep track of song
-let songIndex = 11;
+let songIndex = 12;
 
 // Initially load song details into DOM
 loadSong(songs[songIndex]);
